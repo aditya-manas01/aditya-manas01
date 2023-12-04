@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya-manas01
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Respected Company.
 - 📫 How to reach me ...My LinkedIn account is: https://www.linkedin.com/in/aditya-manas-29731a290/
 
 <!---
